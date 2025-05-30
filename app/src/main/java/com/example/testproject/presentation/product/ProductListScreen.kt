@@ -64,7 +64,7 @@ import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
 import coil.compose.AsyncImage
-import com.example.testproject.ProductCard
+import com.example.testproject.presentation.components.ProductCard
 import com.example.testproject.R
 import com.example.testproject.data.model.Product
 import com.example.testproject.data.remote.RetrofitClient
